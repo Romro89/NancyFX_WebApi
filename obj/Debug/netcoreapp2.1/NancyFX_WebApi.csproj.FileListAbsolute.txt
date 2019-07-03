@@ -1,0 +1,14 @@
+D:\Axity\Cursos\Net Core - Nancy FX\NancyFX_WebApi\bin\Debug\netcoreapp2.1\NancyFX_WebApi.deps.json
+D:\Axity\Cursos\Net Core - Nancy FX\NancyFX_WebApi\bin\Debug\netcoreapp2.1\NancyFX_WebApi.runtimeconfig.json
+D:\Axity\Cursos\Net Core - Nancy FX\NancyFX_WebApi\bin\Debug\netcoreapp2.1\NancyFX_WebApi.runtimeconfig.dev.json
+D:\Axity\Cursos\Net Core - Nancy FX\NancyFX_WebApi\bin\Debug\netcoreapp2.1\NancyFX_WebApi.dll
+D:\Axity\Cursos\Net Core - Nancy FX\NancyFX_WebApi\bin\Debug\netcoreapp2.1\NancyFX_WebApi.pdb
+D:\Axity\Cursos\Net Core - Nancy FX\NancyFX_WebApi\obj\Debug\netcoreapp2.1\NancyFX_WebApi.csprojAssemblyReference.cache
+D:\Axity\Cursos\Net Core - Nancy FX\NancyFX_WebApi\obj\Debug\netcoreapp2.1\NancyFX_WebApi.csproj.CoreCompileInputs.cache
+D:\Axity\Cursos\Net Core - Nancy FX\NancyFX_WebApi\obj\Debug\netcoreapp2.1\NancyFX_WebApi.RazorAssemblyInfo.cache
+D:\Axity\Cursos\Net Core - Nancy FX\NancyFX_WebApi\obj\Debug\netcoreapp2.1\NancyFX_WebApi.RazorAssemblyInfo.cs
+D:\Axity\Cursos\Net Core - Nancy FX\NancyFX_WebApi\obj\Debug\netcoreapp2.1\NancyFX_WebApi.AssemblyInfoInputs.cache
+D:\Axity\Cursos\Net Core - Nancy FX\NancyFX_WebApi\obj\Debug\netcoreapp2.1\NancyFX_WebApi.AssemblyInfo.cs
+D:\Axity\Cursos\Net Core - Nancy FX\NancyFX_WebApi\obj\Debug\netcoreapp2.1\NancyFX_WebApi.RazorTargetAssemblyInfo.cache
+D:\Axity\Cursos\Net Core - Nancy FX\NancyFX_WebApi\obj\Debug\netcoreapp2.1\NancyFX_WebApi.dll
+D:\Axity\Cursos\Net Core - Nancy FX\NancyFX_WebApi\obj\Debug\netcoreapp2.1\NancyFX_WebApi.pdb
